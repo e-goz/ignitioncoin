@@ -1,5 +1,9 @@
 v1.0.0.2
 --------
+check box (unlock for staking) set to false by default.
+
+v1.0.0.2
+--------
 Fixed mining/staking seperated difficulty reporting
 Enabled testnet with increased reward.
 Masternode pubkey reporting fix.
